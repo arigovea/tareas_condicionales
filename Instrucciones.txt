@@ -1,0 +1,4 @@
+-Crear una calculadora:
+Parámetros iniciales: 2 números y el tipo de operación
+	Una con if/else
+	Otra con switch case
